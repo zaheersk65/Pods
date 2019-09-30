@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.8.2)
+  - BarcodeEasyScan (0.3.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - BarcodeEasyScan
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BarcodeEasyScan
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  BarcodeEasyScan: 9a7b2ca4c60c6ec93c433e5c14bc18657b8f7deb
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: c526b36012d8347376589f76ed64a158c512d92b
+
+COCOAPODS: 1.7.4
